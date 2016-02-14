@@ -1,0 +1,11 @@
+//
+//  Config.swift
+//  HatenaBookmarkAPITest
+//
+
+import Foundation
+
+struct Config {
+    static let consumerKey = "your hatena OAuth consumer key"
+    static let consumerSecret = "your hatena OAuth consumer secret"
+}
